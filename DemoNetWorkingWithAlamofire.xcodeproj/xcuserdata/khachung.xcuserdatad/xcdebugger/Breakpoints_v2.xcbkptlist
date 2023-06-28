@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E2DF245-B733-4FE9-8EF5-29FA0C201FCF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0598CBB-5BBF-4709-8739-BB12B5284A2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoNetWorkingWithAlamofire/Controllers/FriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "FriendsViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACF88501-54AC-4913-BDEB-3F0DC34EFAF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoNetWorkingWithAlamofire/Handlers/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getFriends(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "918EDF7C-155E-4749-A494-D65ABF180933"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoNetWorkingWithAlamofire/Handlers/APIHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getFriends(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "918EDF7C-155E-4749-A494-D65ABF180933 - b5197c145c36c3eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;DemoNetWorkingWithAlamofire.FriensResponseModel&gt;, Alamofire.AFError&gt;) -&gt; () in DemoNetWorkingWithAlamofire.APIHandler.getFriends(completion: (Swift.Array&lt;DemoNetWorkingWithAlamofire.FriensResponseModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoNetWorkingWithAlamofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khachung/Desktop/ALL/Vietdeveloper_K17/DemoNetWorkingWithAlamofire/DemoNetWorkingWithAlamofire/Handlers/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "918EDF7C-155E-4749-A494-D65ABF180933 - b5197c145c36c3eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;DemoNetWorkingWithAlamofire.FriensResponseModel&gt;, Alamofire.AFError&gt;) -&gt; () in DemoNetWorkingWithAlamofire.APIHandler.getFriends(completion: (Swift.Array&lt;DemoNetWorkingWithAlamofire.FriensResponseModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoNetWorkingWithAlamofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khachung/Desktop/ALL/Vietdeveloper_K17/DemoNetWorkingWithAlamofire/DemoNetWorkingWithAlamofire/Handlers/APIHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "461BF897-FF35-4BC1-A53B-293684EF1343"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoNetWorkingWithAlamofire/Controllers/FriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE3FBF3E-4377-4104-A1FC-7505CC406507"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoNetWorkingWithAlamofire/Controllers/FriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE3FBF3E-4377-4104-A1FC-7505CC406507 - 7ca04a68a0ef154a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoNetWorkingWithAlamofire.FriendsViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "DemoNetWorkingWithAlamofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khachung/Desktop/ALL/Vietdeveloper_K17/DemoNetWorkingWithAlamofire/DemoNetWorkingWithAlamofire/Controllers/FriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "CE3FBF3E-4377-4104-A1FC-7505CC406507 - 7ca04a68a0ef156b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoNetWorkingWithAlamofire.FriendsViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "DemoNetWorkingWithAlamofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khachung/Desktop/ALL/Vietdeveloper_K17/DemoNetWorkingWithAlamofire/DemoNetWorkingWithAlamofire/Controllers/FriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
