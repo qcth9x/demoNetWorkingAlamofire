@@ -2,7 +2,7 @@
 //  FriendsTableViewCell.swift
 //  DemoNetWorkingWithAlamofire
 //
-//  Created by Khắc Hùng on 26/06/2023.
+//  Created by Lê Đình Linh on 26/06/2023.
 //
 
 import UIKit

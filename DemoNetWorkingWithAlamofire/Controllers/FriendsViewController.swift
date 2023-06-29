@@ -2,7 +2,7 @@
 //  FriendsViewController.swift
 //  DemoNetWorkingWithAlamofire
 //
-//  Created by Khắc Hùng on 26/06/2023.
+//  Created by Lê Đình Linh on 26/06/2023.
 //
 
 import UIKit
@@ -64,9 +64,7 @@ class FriendsViewController: UIViewController, UITableViewDataSource, UITableVie
         detailVC.person = person
         navigationController?.pushViewController(detailVC, animated: true)
     }
-    func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 120
-    }
+    
     
     func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) {
         if editingStyle == .delete {

@@ -2,7 +2,7 @@
 //  ConversationsViewController.swift
 //  DemoNetWorkingWithAlamofire
 //
-//  Created by Khắc Hùng on 26/06/2023.
+//  Created by Lê Đình Linh on 26/06/2023.
 //
 
 import UIKit
@@ -44,7 +44,5 @@ class ConversationsViewController: UIViewController, UITableViewDataSource, UITa
         return cell
     }
     
-    func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return 120
-    }
+    
 }

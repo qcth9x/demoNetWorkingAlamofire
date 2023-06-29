@@ -2,7 +2,7 @@
 //  AddFriendViewController.swift
 //  DemoNetWorkingWithAlamofire
 //
-//  Created by Khắc Hùng on 28/06/2023.
+//  Created by Lê Đình Linh on 28/06/2023.
 //
 
 import UIKit
